@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="8" build="613" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="cb8ae4d0-e902-4ff4-98ec-f7ef6b81240f" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Foresight" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7f186a9b-bf89-478c-a000-706ef5a564ce" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_Foresight" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_Foresight" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_Foresight" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="5f44c567-8734-44d8-ab50-a85a3a415005" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Invulnerability" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3861623d-8358-4b60-b170-db6a70acb0ca" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_Invulnerability" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Shout_Invulnerability" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Shout_Invulnerability" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="8287b67b-b8eb-4b45-a61c-c68f7a1741c9" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_MassHeal" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="71f5eccf-fef5-4323-81e4-03f75d42ba61" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_MassHeal" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_MassHeal" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_MassHeal" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="c48f931e-c1b6-44c4-96c9-b36bd61d5128" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_PowerWordHeal" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="0bb5c6e1-0737-43ed-ab6a-d6bc3913eb5d" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_PowerWordHeal" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_PowerWordHeal" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_PowerWordHeal" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="04811840-2c79-4b1e-9d44-76eb61d56507" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_PowerWordKill" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="07cf20e7-803b-42d6-8c1d-6b7ba258e222" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_PowerWordKill" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_PowerWordKill" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_PowerWordKill" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="b314e05b-18c5-4e54-a297-631f268901b4" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_TimeStop" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3fef177e-1c06-4508-adae-069071b8abf5" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_TimeStop" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Shout_TimeStop" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Shout_TimeStop" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="1a9d6474-c051-478e-a38d-8e4f583bf6cc" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_TrueResurrection" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4698f103-7daf-40f9-be47-c227def6a6de" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_TrueResurrection" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_TrueResurrection" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_TrueResurrection" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

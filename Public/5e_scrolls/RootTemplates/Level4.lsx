@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="8" build="613" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="8fc27db3-2ed0-4c77-a594-195eca960627" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_CharmMonster" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8a915060-ebc4-4805-be72-d9f0b6b7dd0a" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_CharmMonster" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_CharmMonster" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_CharmMonster" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="68dcfcd3-9a21-44e9-9535-a4e82a4a3474" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_GravitySinkhole" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="059a7ebb-9153-48fc-9c10-533a87411cdb" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_GravitySinkhole" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_GravitySinkhole" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_GravitySinkhole" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="5638812a-076c-4a66-b145-ebd528abaeeb" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_GuardianOfNature" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2da8bc20-ab1a-477c-b223-3d4cf2015037" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_GuardianOfNature" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Shout_GuardianOfNature" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Shout_GuardianOfNature" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="36e4b010-83dc-423b-af37-5331e6f1de0e" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_RaulothimsPsychicLance" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4e8ff04f-194c-4f81-a8f1-deb0bf8adaf9" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_RaulothimsPsychicLance" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Projectile_RaulothimsPsychicLance" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Projectile_RaulothimsPsychicLance" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
