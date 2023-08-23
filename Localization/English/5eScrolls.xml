@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
+	<!-- cantrip -->
 	<content contentuid="h62a6332aga55cg4060gadfdgad4b637e20c8" version="1">Scroll of Booming Blade</content>
 	<content contentuid="hda7811ecg54acg40b2gb8d9g81f17d5b0806" version="1">Scroll of Control Flames</content>
 	<content contentuid="h033b806fg944ag437fgbfa7g1138dbe4c96d" version="1">Scroll of Create Bonfire</content>
@@ -14,16 +15,22 @@
 	<content contentuid="h9215b06ag0825g48d9g95cag55fa0eaa7aa5" version="1">Scroll of Prestidigitation</content>
 	<content contentuid="h9f03b462g4c4fg4c7dg9707ge1dd1ba55cde" version="1">Scroll of Primal Savagery</content>
 	<content contentuid="h45d588e4g6100g47d3g886bgc06d016be5cd" version="1">Scroll of Sapping Sting</content>
+	<!-- Spare the dying not found -->
 	<content contentuid="haeaa12f6g4330g4aedg9452g4b303f6ce997" version="1">Scroll of Sword Burst</content>
 	<content contentuid="h462b9270gb00ag47e1gbe5bgbe2f17571991" version="1">Scroll of Thunderclap</content>
 	<content contentuid="h33b24123g1bc4g4bf5gb74fg3edf9858a1c3" version="1">Scroll of Toll the Dead</content>
+	<!-- Vicious Mockery not found -->
 	<content contentuid="hc681054agd7e9g4b35ga585g0aa344b02f29" version="1">Scroll of Word of Radiance</content>
+	
+	<!-- Level 1 -->
     <content contentuid="h7132d482g7876g4030gb441gb1f84446d9b8" version="1">Scroll of Absorb Elements</content>
     <content contentuid="h5fead3dbgfca9g4570gaecdg5b757ba4da04" version="1">Scroll of Beast Bond</content>
 	<content contentuid="hb190f329g081ag4f18gb0afg57d89931e375" version="1">Scroll of Catapult</content>
 	<content contentuid="h812f2d63g987ag457ag8b8eg7190d9605ac8" version="1">Scroll of Cause Fear</content>
 	<content contentuid="hccfbe3b3g62a2g4b57g8d64gc69f96cac484" version="1">Scroll of Ceremony</content>
 	<content contentuid="hb65c7655g1778g4a4cg8128gc45ab4ca04bd" version="1">Scroll of Chaos Bolt</content>
+	<!--<content contentuid="feb7fc2b-99ae-41d0-b0e7-035f213c70e8" version="1">Scroll of Detect Evil and Good</content>-->
+	<!--<content contentuid="e4ce87dd-70ac-4f31-8555-871287aed2c4" version="1">Scroll of Detect Magic</content>-->
 	<content contentuid="hca3dd744g081ag4710g8718g0d9d7219083d" version="1">Scroll of Earth Tremor</content>
 	<content contentuid="h89ab9c45g0cf3g47cfgb7bfgc7cc94824675" version="1">Scroll of Frost Fingers</content>
 	<content contentuid="h95d029a6g30e1g45b8gb982g34db4a80cd78" version="1">Scroll of Gift of Alacrity</content>
@@ -32,8 +39,11 @@
 	<content contentuid="hb0d19084g42dag4231gb83cg1bce375f5cc7" version="1">Scroll of Unseen Servant</content>
 	<content contentuid="h9d65ab25g4042g4490ga4b5gf839af9d6b13" version="1">Scroll of Zephyr Strike</content>
 	<content contentuid="h7297c446g4401g452cgb1cagcd82b1ade7d9" version="1">Scroll of Snare</content>
+	
+	<!-- Level 2 -->
 	<content contentuid="h9c2320a4g6ad7g4c11g90b1g4ccc7bfdf2bf" version="1">Scroll of Aganazzar's Scorcher</content>
 	<content contentuid="he920f63ag2ac0g418eg979ag54d0b0c6cfd2" version="1">Scroll of Borrowed Knowledge</content>
+	<!--<content contentuid="d44ce0f7-475a-4e02-b852-cf7885499853" version="1">Scroll of Continual Flame</content>-->
 	<content contentuid="h16154ab4g535eg46fag8f7agf1981b33ef41" version="1">Scroll of Dragon's Breath</content>
 	<content contentuid="h92beaef3gc55fg4e8cga3eag1f31b9eb1129" version="1">Scroll of Dust Devil</content>
 	<content contentuid="h5d9177dega330g4fe2ga28ag8fe93422e658" version="1">Scroll of Flock of Familiars</content>
@@ -52,6 +62,8 @@
 	<content contentuid="hf4bfe2d1g920dg431dg8937g03361b863129" version="1">Scroll of Vortex Warp</content>
 	<content contentuid="h65030776gd998g44cdga613gc11f91f986b3" version="1">Scroll of Warding Wind</content>
 	<content contentuid="h3213c29bg9bf1g4679gad50g2ed77fc4715b" version="1">Scroll of Wither and Bloom</content>
+
+	<!-- Level 3 -->
 	<content contentuid="h25d3d7ecgca12g46adga860gc56d91cbab2d" version="1">Scroll of Ashardalon's Stride</content>
 	<content contentuid="h53357343g7d14g44eeg9e85g7bc3e0bf92bd" version="1">Scroll of Catnap</content>
 	<content contentuid="hfcc894e9g3f4cg4a2ag9f8bg8181f4a97bf7" version="1">Scroll of Create Food and Water</content>
@@ -62,37 +74,58 @@
 	<content contentuid="he81eb782ge07dg4edfg98d0gd2b079e0cd20" version="1">Scroll of Life Transference</content>
 	<content contentuid="he4970665ga4b9g4ce0g8c91g13dcfa573f3e" version="1">Scroll of Melf's Minute Meteors</content>
 	<content contentuid="h1aac6f60g8f57g4ba7g8d15ge4f7b17de440" version="1">Scroll of Motivational Speech</content>
+	<!--<content contentuid="810c0303-0eb9-42a3-a5ff-0ee5bc4a7394" version="1">Scroll of Nondetection</content>-->
 	<content contentuid="hd45db652gea65g477fg9907g2a558ccbace5" version="1">Scroll of Pulse Wave</content>
 	<content contentuid="hb88c86b7g2a3ag42fbgaa3bg010ee56b32cb" version="1">Scroll of Spirit Shroud</content>
 	<content contentuid="h8f513318gb871g430eg9518gba2a972487f0" version="1">Scroll of Summon Shadowspawn</content>
 	<content contentuid="h02457185gb7fdg4fa4gbe5fgc8e9c68e88d0" version="1">Scroll of Thunder Step</content>
 	<content contentuid="h120c741bg40e1g4b0agbfb8ga0d5e6d8607c" version="1">Scroll of Water Walk</content>
+	
+	<!-- Level 4 -->
 	<content contentuid="hf2cf105dgef18g4527g94cdg716705e8ece5" version="1">Scroll of Charm Monster</content>
 	<content contentuid="h6a5bbfe6gd432g4f3dg9f44ge67d5ac741dd" version="1">Scroll of Gravity Sinkhole</content>
 	<content contentuid="h3f7a3b3ag0cd1g44aagb3b5g8240512e3479" version="1">Scroll of Guardian of Nature</content>
 	<content contentuid="hf445fba4g65e4g404cg8897gaa86e67d07ed" version="1">Scroll of Raulothim's Psychic Lance</content>
+	
+	<!-- Level 5 -->
+	<!--<content contentuid="02782321-3548-422b-9d5f-c51eb40a950a" version="1">Scroll of Conjure Volley</content>-->
 	<content contentuid="h00d4e9dagb04ag4edagaa2fgccc817283e0d" version="1">Scroll of FarStep</content>
 	<content contentuid="h2e61f283g0d6cg4918g8473gedc33fcce028" version="1">Scroll of Holy Weapon</content>
 	<content contentuid="h555af1f2g02ccg4ba5ga1c4gf129e86988e3" version="1">Scroll of Negative Energy Flood</content>
+	<!--<content contentuid="8914099a-ab5a-4130-b0fb-6c122b81e76b" version="1">Scroll of Raise Dead</content>-->
 	<content contentuid="h5b75e5b5ga459g49b7g9603g3837fd68e8ca" version="1">Scroll of Rary's Telepathic Bond</content>
 	<content contentuid="hb06e4428g70dag49b2gaafdg74cf91d14d15" version="1">Scroll of Skill Empowerment</content>
 	<content contentuid="h4de087c5g44c4g4604gb569g7f33e0072ba8" version="1">Scroll of Steel Wind Strike</content>
 	<content contentuid="h4b86e8ffg5b92g44a4g86e2g27ac31910a65" version="1">Scroll of Summon Draconic Spirit</content>
 	<content contentuid="h943a757cg58adg4630g89b1gdf39ce7e31c5" version="1">Scroll of Synaptic Static</content>
 	<content contentuid="h0df52f87g6322g48cfg9146ge9764ab376ba" version="1">Scroll of Temporal Shunt</content>
+
+	<!-- Level 6 -->
+	
+	<!-- Level 7 -->
 	<content contentuid="h8d3b1ae6g11f3g4dfeg935dg5c630e029801" version="1">Scroll of Crown of Stars</content>
 	<content contentuid="h0cf27842g0fb7g4cccg9a79gbfa6f3d9ffe2" version="1">Scroll of Finger of Death</content>
 	<content contentuid="h6a4adbcbg9ea3g4b9fgaa71g71fe4ab5be0d" version="1">Scroll of Regenerate</content>
+	<!--<content contentuid="e94202da-59b7-41cd-a3aa-669aea7317f8" version="1">Scroll of Resurrection</content>-->
+	
+	<!-- Level 8 -->
 	<content contentuid="heff902e4g269bg4bb6g8f84gf549d5f94a50" version="1">Scroll of Dominate Monster</content>
 	<content contentuid="h93593702g3c7dg4874ga5d3g01419fd42d9c" version="1">Scroll of Feeblemind</content>
 	<content contentuid="h3d1d81d2gfd9eg4abcg8ea3g69b041979c03" version="1">Scroll of Holy Aura</content>
 	<content contentuid="hd495de8egeca9g44fbg8857g308f10772aa4" version="1">Scroll of Maddening Darkness</content>
 	<content contentuid="heabe0ae9g7b46g496fg85d2g179c306caf6a" version="1">Scroll of Mind Blank</content>
 	<content contentuid="h9b7015f9g19dcg4205gbbceg5a644f8587b7" version="1">Scroll of Power Word: Stun</content>
+	
+	<!-- Level 9 -->
 	<content contentuid="h0c2c463dg453cg455egb6c6gbe78418bea92" version="1">Scroll of Foresight</content>
 	<content contentuid="h4c37ee8cga7a8g4732ga168gd9d016d8d3f2" version="1">Scroll of Invulnerability</content>
 	<content contentuid="hfe921078g2c8cg4aa2g9005gf5e8444006bf" version="1">Scroll of Mass Heal</content>
 	<content contentuid="h46d72f02g66cag4c3bga6a5g541bde0e6939" version="1">Scroll of Power Word: Heal</content>
 	<content contentuid="hbb1b027dg13eeg4ee6gab45g63d56f5d9599" version="1">Scroll of Power Word: Kill</content>
 	<content contentuid="hff8b6ec2g42ddg42a3gb5degc9b151ac37d0" version="1">Scroll of Time Stop</content>
+	<!--<content contentuid="h554d0591gbc2cg45d7gb991gf7bcf9ea2561" version="1">Scroll of True Resurrection</content>-->
+	
+	<!-- not in list -->
+	<!--<content contentuid="af999f1d-cf80-48ff-bf07-3179ceeb63fa" version="1">Scroll of Break Free</content>-->
+	<!--<content contentuid="be1e955b-dbcb-4fe2-8a39-451d06411ba5" version="1">Scroll of Shape Water</content>-->
 </contentList>

@@ -162,7 +162,7 @@
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_EruptingEarth" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="3fc14f22-856b-488f-bb84-23b1e431ab9a" />
+					<attribute id="MapKey" type="FixedString" value="38b7f05a-ec0c-4793-8ca5-76a6b58dad22" />
 					<attribute id="Name" type="LSString" value="LOOT_SCROLL_EruptingEarth" />
 					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_EruptingEarth" />
@@ -200,7 +200,7 @@
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_FlameArrows" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="3fc14f22-856b-488f-bb84-23b1e431ab9a" />
+					<attribute id="MapKey" type="FixedString" value="0fbde787-b802-4978-b0e5-a468be4aaa34" />
 					<attribute id="Name" type="LSString" value="LOOT_SCROLL_FlameArrows" />
 					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_FlameArrows" />
